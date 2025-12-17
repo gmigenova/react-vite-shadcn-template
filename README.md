@@ -14,16 +14,19 @@ This template includes:
 
 ## Getting Started ⭐
 
-### STEP 1 
+### STEP 1 - Clone the template repository
 If you prefer to start manually:
-```sh
-# Clone the template repository
-git clone https://github.com/gmigenova/react-vite-shadcn-template
-cd react-vite-shadcn-template
 
+```sh
+git clone https://github.com/gmigenova/react-vite-shadcn-template
+```
+```sh
+cd react-vite-shadcn-template
+```
 
 ### STEP 2 - Next Steps (Required)
 1. Install dependencies:
+
 ```sh
 npm install
 ```
